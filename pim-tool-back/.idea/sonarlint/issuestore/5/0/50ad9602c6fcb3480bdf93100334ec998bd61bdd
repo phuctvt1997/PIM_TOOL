@@ -1,0 +1,6 @@
+
+b	java:S107w"AConstructor has 8 parameters, which is greater than 7 authorized.(Ğ¹íËıÿÿÿÿ8’ÆÜÜš/
+i
+java:S1128"GRemove this unused import 'org.hibernate.validator.constraints.Length'.(Ê—œªÿÿÿÿÿ8Ø¨£ù/
+F
+java:S1172H")Remove this unused method parameter "id".(âÛ±À8·ĞÍí™/

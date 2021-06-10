@@ -1,0 +1,6 @@
+
+o	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñŞÍ ıÿÿÿÿ8¿Â¡•/
+o	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó®ßÚıÿÿÿÿ8¿Â¡•/
+r	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó®ßÚıÿÿÿÿ8¿Â¡•/
+u	java:S116"YRename this field "groupLeader_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èƒ ¬8’·Ì¡•/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÿ¿ş8¿Â¡•/

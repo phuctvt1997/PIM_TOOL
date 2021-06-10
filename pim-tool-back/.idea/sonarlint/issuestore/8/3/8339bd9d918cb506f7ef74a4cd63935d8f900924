@@ -1,0 +1,7 @@
+
+m	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÿã8‚ŞŒ½š/
+j	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î“„8õşÃ¦/
+q	java:S116"URename this field "birth_Date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õË’Ò8ı©‹½š/
+j	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÿã8‚ŞŒ½š/
+Q
+java:S1128"5Remove this unused import 'javax.persistence.Column'.(ìûæH8³­³ù/
