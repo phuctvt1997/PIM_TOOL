@@ -1,0 +1,66 @@
+.field{
+    margin-bottom: 50px !important;
+    border-bottom: none;
+}
+.grabage{
+    text-align: center;
+}
+table td{
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: #666666;
+}
+table td:first-child{
+    position: relative;
+}
+table input[type="checkbox"]{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 15px;
+    height: 15px;
+}
+table th {
+    line-height: 11px;
+    overflow: hidden;
+    white-space: nowrap;
+}
+#formProjectList{
+    margin-top: 30px;
+}
+#notify{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+ul.pagination{
+    justify-content: flex-end;
+}
+ul.pagination li a{
+    color: inherit;
+    font-size: 13px;
+}
+ul.pagination li{
+    border: 1px solid darkgray;
+    padding: 5px 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+ul.pagination li:hover{
+    background-color: cornsilk;
+}
+ul.pagination li:first-child, ul.pagination li:last-child{
+    display: none;
+}
+ul.pagination li.disabled{
+    color: gray;
+}
+ul.pagination li{
+    color: deepskyblue;
+}
+ul.pagination li.active{
+    color: dodgerblue;
+}
+

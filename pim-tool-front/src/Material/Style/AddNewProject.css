@@ -1,0 +1,67 @@
+.content-header{
+    padding: 30px 0 20px;
+    border-bottom: 1px solid gainsboro;
+    font-weight: bolder;
+}
+.content-header > h2{
+    font-size: 14pt;
+    font-weight: 600;
+}
+#formCreateNewProject{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.field{
+    margin-bottom: 50px;
+    border-bottom: 1px solid gainsboro;
+}
+.row--input{
+    height: 30px;
+    margin: 0 0 38px 0;
+}
+.row--input > *{
+    height: 100%;
+}
+.row--input input{
+    height: 100% !important;
+}
+.titleLabel{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /* size: 14pt; */
+    /* style:semibold; */
+    color: #666666;
+}
+.titleLabel .requiredMark{
+    color: red;
+}
+.titleLabelCol2{
+    justify-content: flex-end;
+}
+.buttonDirection{
+    position: center;
+    border: 1px;
+    text-align: center;
+    max-height: 35px;
+}
+
+#cancelButton{
+    background-color: #B9B9B9;
+}
+#createNewProjectButton{
+    background-color: #2F85FA;
+}
+.error{
+    font-size: 10px;
+    color: red;
+    display: none;
+}
+.error--show{
+    display: block;
+}
+input.error--show{
+    border: 1px solid red !important;
+    box-sizing: border-box;
+}
